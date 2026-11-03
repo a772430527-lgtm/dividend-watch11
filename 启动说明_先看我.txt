@@ -1,0 +1,11 @@
+V4 Windows startup fix (2026-11-03)
+
+1) Delete the OLD extracted folder or choose a NEW extraction folder.
+2) Right-click ZIP and select Extract All. Do not run scripts inside ZIP preview.
+3) Double-click START_HERE_V4.cmd (not old start files!).
+4) Confirm the console displays: V4-20261103-NO-PAUSE.
+5) If it starts normally: http://127.0.0.1:8765 . Leave window open.
+6) If startup fails: choose D in the menu. Send DIAGNOSIS_V4.txt and INSTALL_LOG.txt/RUN_LOG.txt.
+7) Pressing any random key will NOT close the V4 window. Only type Q followed by ENTER to quit.
+
+If you still see 'Press any key to continue' / '请按任意键继续', you opened an older .bat: it is NOT the V4 launcher.
